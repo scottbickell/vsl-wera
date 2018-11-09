@@ -394,6 +394,9 @@ table.button table td a {
 .signature img {
   max-width: 200px; }
 
+.showit {
+  background: orange !important; }
+
 .social-media {
   background: #f3f3f3; }
 
